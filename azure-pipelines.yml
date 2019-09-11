@@ -5,8 +5,13 @@
 
 trigger:
 - master
+<<<<<<< HEAD
 - devtest/*
 
+=======
+- devtest
+- dev
+>>>>>>> ff200be382d088d0b96e6e4eea95e45ab473d2fa
 pool:
   vmImage: 'vs2017-win2016'
 
