@@ -5,6 +5,8 @@
 
 trigger:
 - master
+- dev
+- devtest
 
 pool:
   vmImage: 'vs2017-win2016'
